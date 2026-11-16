@@ -1,267 +1,73 @@
-<div align="center">
+# 🌐 Juan Cortez — Engineering, QA Automation & R&D Portfolio
 
-<h1 style="color: #A855F7;">🌐 Juan Cortez — Enterprise Engineering Portfolio</h1>
-<h3>Full-Stack Systems Architect & AI Infrastructure Engineer</h3>
+### QA Automation & Release Specialist · Workflow & AI Engineer · Full-Stack Builder
 
-<br/>
-
-<a href="https://github.com/Juan23456788977">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00ff41&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hola,+soy+Juan+Cortez+%F0%9F%91%8B;Building+Systems,+Not+Just+Apps.;WebSockets,+Hardware+APIs,+and+LLM+Integrations." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="mailto:cortezurreajuanalberto@gmail.com"><img src="https://img.shields.io/badge/Email-cortezurreajuanalberto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Juan23456788977/Portafolio"><img src="https://img.shields.io/badge/Portafolio_Completo-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/></a>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-cortezurreajuanalberto%40gmail.com-blue?style=flat&logo=gmail)](mailto:cortezurreajuanalberto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Cortez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-cortez-b61ba0345)
 
 ---
 
 ## 👨‍💻 Sobre mí / About Me
 
-> 🇪🇸 Desarrollador Full-Stack venezolano, 18 años. Trabajo como **pasante de desarrollo y QA en Akdemia** (plataforma EdTech con 500+ colegios) y como **freelance** construyendo bots de trading algorítmico con capital real en mercados crypto. No aprendo tecnologías para hacer tutoriales — las aprendo porque tengo un problema real que resolver.
+🇪🇸 Especialista en **QA Automation, Accesibilidad Web (WCAG) y Automatización de Procesos**. Trabajo como **Especialista QA & Automatización Operativa** en el sector EdTech, uniendo ingeniería, producto y operaciones mediante pruebas E2E, auditorías de seguridad y flujos automatizados con IA.
 
-> 🌐 Venezuelan Full-Stack Developer, 18 y/o. Working as **development & QA intern at Akdemia** (EdTech platform, 500+ schools) and as a **freelance** algorithmic trading bot developer with real capital in crypto markets. I don't learn technologies to build tutorials — I learn them because I have a real problem to solve.
-
----
-
-## 🚀 Proyectos / Projects
+🌐 **QA Automation, Web Accessibility (WCAG) & Workflow Engineer** working in the EdTech space, bridging backend engineering, product, and operations through E2E testing, security audits, and AI-driven workflows.
 
 ---
 
-### 🌟 MCP-Dock — Advanced Web Testbench for MCP / Playground Agentic
+## 🚀 Proyectos Principales / Core Engineering & QA Projects
 
-> 🇪🇸 Herramienta DevTool de nivel empresarial para inspeccionar y jugar con servidores del **Model Context Protocol (MCP)**. Actúa como un proxy local `stdio-to-http` con una interfaz web en Next.js 15. Incluye un Inspector de JSON Schemas de herramientas y un Agentic Playground que simula un LLM interactuando con tus herramientas locales en tiempo real.
- 
-> 🌐 Enterprise-grade DevTool to inspect and play with **Model Context Protocol (MCP)** servers. Acts as a local `stdio-to-http` proxy with a stunning Next.js 15 web interface. Includes a JSON Schema Inspector and an Agentic Playground that simulates an LLM interacting with your local tools in real-time.
-
-**Stack:** `Next.js 15` `React 19` `Tailwind v4` `Node.js` `Express` `@modelcontextprotocol/sdk` `Framer Motion`
-
-<a href="https://github.com/Juan23456788977/mcp-dock"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="MCP-Dock"/></a>
-
----
-
-### 🦆 DuckyFlow — WebSerial Hardware Flasher / DuckyScript IDE
-
-> 🇪🇸 Entorno de desarrollo integrado (IDE) en el navegador para programar y flashear dispositivos USB usando **DuckyScript**. Se conecta al hardware físico directamente desde Chrome mediante la **WebSerial API**, eliminando la necesidad de instalar herramientas de consola.
- 
-> 🌐 In-browser IDE to write and flash **DuckyScript** payloads to USB devices. Connects to physical hardware directly from Chrome using the **WebSerial API**, eliminating the need for local toolchains.
-
-**Stack:** `Next.js 16` `React 19` `Tailwind v4` `WebSerial API` `Monaco Editor`
-
-<a href="https://github.com/Juan23456788977/duckyflow"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="DuckyFlow"/></a>
-<a href="https://Juan23456788977.github.io/duckyflow"><img src="https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+| Proyecto | Descripción |
+|----------|-------------|
+| **[edtech-playwright-e2e](https://github.com/Juan23456788977/edtech-playwright-e2e)** | Framework E2E en TypeScript y Playwright para validación de roles (RBAC), 2FA y flujos multi-tenant en EdTech |
+| **[mcp-dock](https://github.com/Juan23456788977/mcp-dock)** | DevTool con interfaz Next.js 15 y Node.js para inspeccionar servidores Model Context Protocol (MCP) como proxy `stdio-to-http` |
+| **[mcp-enterprise-suite](https://github.com/Juan23456788977/mcp-enterprise-suite)** | Integraciones de agentes autónomos con Slack, Google Drive, Zimbra y EUDAMED usando Python y FastMCP |
+| **[async-lead-capture-landing](https://github.com/Juan23456788977/async-lead-capture-landing)** | Arquitectura Zero-Reload en Google Apps Script + Sheets API con envío de emails transaccionales via Content-ID (CID) |
+| **[PasantConnect](https://github.com/Juan23456788977/PasantConnect)** | Plataforma full-stack de tesis (PHP, MySQL, JS) para gestión de pasantías con autenticación bcrypt y control de accesos |
+| **[cortan-showcase](https://github.com/Juan23456788977/cortan-showcase)** | Prototipo SaaS con Supabase (pgvector), FastAPI, Next.js, Redis y Stripe |
+| **[vecommerce-showcase](https://github.com/Juan23456788977/vecommerce-showcase)** | E-commerce venezolano con Next.js, Supabase y pasarela de pagos local |
 
 ---
 
-### 🌐 Enterprise MCP Suite — Model Context Protocol
+## 🔬 R&D & Laboratorio Experimental
 
-> 🇪🇸 Suite de servidores **Model Context Protocol (MCP)** listos para producción. Conecta Agentes Autónomos e IAs con infraestructura empresarial legacy: **Zimbra SOAP API**, **Slack**, **Google Drive** y la base de datos regulatoria europea **EUDAMED**. Diseñados para ejecutar LLMs en entornos corporativos con strictos requerimientos de seguridad y auditoría.
- 
-> 🌐 Production-ready **Model Context Protocol (MCP)** server suite. Connects Autonomous Agents and AIs to legacy enterprise infrastructure: **Zimbra SOAP API**, **Slack**, **Google Drive**, and the **EUDAMED** European regulatory database. Designed for running LLMs in corporate environments with strict security and auditing requirements.
-
-**Stack:** `Node.js` `Python` `Anthropic SDK` `@modelcontextprotocol/sdk` `FastMCP` `SOAP`
-
-<a href="https://github.com/Juan23456788977/mcp-enterprise-suite"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="MCP Suite"/></a>
+| Proyecto | Descripción |
+|----------|-------------|
+| **[duckyflow](https://github.com/Juan23456788977/duckyflow)** | IDE web con WebSerial API y Monaco Editor para programar dispositivos USB desde el navegador |
+| **[yichip-rf-reaper](https://github.com/Juan23456788977/yichip-rf-reaper)** | Herramienta Python para análisis de tráfico HID/USB en Linux con dispositivos YiChip RF |
+| **[erp-data-automation](https://github.com/Juan23456788977/erp-data-automation)** | Bots de automatización de datos para ERP con Python y Google Sheets API |
 
 ---
 
-### 🔐 YiChip RF Reaper — Cybersecurity & Hardware Reverse Engineering
+## 📊 Métricas QA Comprobables
 
-> 🇪🇸 El primer toolkit Open Source para ingeniería inversa y análisis de vulnerabilidades en dongles USB **YICHIP** (VID `0x3151`). Descubrimiento de canales HID vendor-specific ocultos, sniffing de endpoints de interrupción de radiofrecuencia y fuzzing de comandos USB de bajo nivel.
- 
-> 🌐 The first Open Source toolkit for reverse engineering and vulnerability analysis of **YICHIP** USB dongles (VID `0x3151`). Discovered hidden vendor-specific HID channels, RF interrupt endpoint sniffing, and low-level USB command fuzzing.
-
-**Stack:** `Python` `pyusb` `hidraw` `Linux Kernel` `Hardware Reverse Engineering`
-
-<a href="https://github.com/Juan23456788977/yichip-rf-reaper"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="YiChip RF Reaper"/></a>
-
----
-
-### 🧪 Akdemia QA Automation — Enterprise Playwright E2E
-
-> 🇪🇸 Framework automatizado de calidad **End-to-End (E2E)** construido para una plataforma EdTech con más de 500 colegios. Valida dinámicamente matrices complejas de Control de Acceso Basado en Roles (RBAC), flujos de pago (Stripe) y lógica de generación de facturas con aislamiento total entre tenants.
- 
-> 🌐 Automated **End-to-End (E2E)** quality framework built for an EdTech platform serving 500+ schools. Dynamically validates complex Role-Based Access Control (RBAC) matrices, payment flows (Stripe), and invoice generation logic with strict cross-tenant isolation.
-
-**Stack:** `Python` `Playwright` `pytest` `E2E Testing` `CI/CD Ready`
-
-<a href="https://github.com/Juan23456788977/akdemia-playwright-e2e"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia E2E"/></a>
-
-### 🌟 ERP Data Automation & AI TARIC
-
-> 🇪🇸 Ingeniería de datos, automatización de Odoo ERP y clasificación aduanera TARIC usando NLP en Python.
- 
-> 🌐 Data engineering, Odoo ERP automation, and TARIC customs classification using Python NLP.
-
-**Stack:** `Python` `Odoo XML-RPC` `NLP` `Pandas` `GitHub Actions`
-
-<a href="https://github.com/Juan23456788977/erp-data-automation"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="ERP Data Automation"/></a>
+- ✅ **85+ ciclos de prueba** ejecutados en producción EdTech (Linear)
+- ✅ **30+ incidencias técnicas** documentadas (bugs, regressions, security)
+- ✅ Auditorías **WCAG** (contraste, teclado, screen reader, aria-invalid)
+- ✅ Regresiones de migración **Ruby 3 / Rails 7** (backend multi-tenant)
+- ✅ **RBAC, 2FA, XSS, UI Redressing, HTTP 403/500** — testing de seguridad
+- ✅ **6 Loops autónomos** en Linear con SLA e idempotencia
 
 ---
 
-### 🌟 Unlimited Claude AI
+## 🛠 Stack Técnico / Core Tech Stack
 
-> 🇪🇸 Implementación de acceso ilimitado a Claude AI con técnicas de optimización de contexto y proxy de sesión.
- 
-> 🌐 Unlimited Claude AI access implementation using context optimization and session proxying.
-
-**Stack:** `Python` `Claude Code` `Reverse Proxy` `Docker`
-
-<a href="https://github.com/Juan23456788977/unlimited-claude-AI"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Unlimited Claude AI"/></a>
-
----
-
-### 🌟 Nexus AI Backend Architecture
-
-> 🇪🇸 Backend Python empresarial para orquestación de LLMs multimodales, demostrando arquitecturas limpias y modularidad.
- 
-> 🌐 Enterprise Python backend for multi-modal LLM orchestration, demonstrating clean architectures and modularity.
-
-**Stack:** `Python 3.12` `FastAPI` `uv` `Anthropic API` `Docker`
-
-<a href="https://github.com/Juan23456788977/nexus-ai-backend"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Nexus AI Backend"/></a>
-
----
-
-### 🌟 SaaS Onboarding Dashboard
-
-> 🇪🇸 Frontend SPA de onboarding construido con Vite, con autenticación segura y bases de datos en tiempo real (Firebase/Firestore).
- 
-> 🌐 Onboarding SPA frontend built with Vite, featuring secure authentication and real-time databases (Firebase/Firestore).
-
-**Stack:** `Vite` `React` `Tailwind CSS` `Firebase Auth` `Firestore`
-
-<a href="https://github.com/Juan23456788977/saas-onboarding-dashboard"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="SaaS Onboarding Dashboard"/></a>
-
----
-
-### 🌟 WhatsApp AI Microservice
-
-> 🇪🇸 Microservicio Node.js robusto para integrar clientes de WhatsApp Web con flujos conversacionales de Inteligencia Artificial.
- 
-> 🌐 Robust Node.js microservice to integrate WhatsApp Web clients with conversational Artificial Intelligence flows.
-
-**Stack:** `Node.js` `Express` `whatsapp-web.js` `Docker`
-
-<a href="https://github.com/Juan23456788977/whatsapp-ai-microservice"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="WhatsApp AI Microservice"/></a>
-
----
-
-### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
-
-> 🇪🇸 Plataforma SaaS corporativa multi-tenant. Cada tenant tiene aislamiento total vía **Row Level Security en Supabase**. El módulo `system-agent` es un rol de bypass total que permite a los agentes de IA ejecutar flujos de trabajo sin restricciones, con trazabilidad en logs de auditoría. Integra **pgvector** para memoria semántica persistente en los agentes.
-
-> 🌐 Enterprise multi-tenant SaaS. Each tenant is fully isolated via **Supabase Row Level Security**. The `system-agent` module is a full-bypass role enabling AI agents to execute workflows without restrictions, with full audit log traceability. Uses **pgvector** for persistent semantic memory across agents.
-
-**Stack:** `Next.js 16` `React 19` `Supabase + pgvector` `Firebase` `Stripe` `WebAuthn` `Twilio` `WhatsApp` `Gemini AI` `Ollama` `Three.js` `Playwright` `Docker`
-
-<a href="https://github.com/Juan23456788977/cortan-showcase"><img src="https://img.shields.io/badge/Ver_Showcase-c%C3%B3digo_privado-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Cortan Showcase"/></a>
-
----
-
-### 🛒 VECommerce — E-commerce Venezuela-first
-
-> 🇪🇸 Monorepo producción-ready con backend en **FastAPI** y frontend en **Next.js TypeScript**. Autenticación con **JWT + bcrypt**, migraciones versionadas con **Alembic**, caché de sesiones en **Redis**, almacenamiento S3-compatible con **MinIO**, y pagos con **Stripe Webhooks**.
-
-> 🌐 Production-ready monorepo with a **FastAPI** backend and **Next.js TypeScript** frontend. **JWT + bcrypt** auth, versioned migrations with **Alembic**, **Redis** session caching, **MinIO** S3-compatible storage, and **Stripe Webhooks** payment flow.
-
-**Stack:** `FastAPI` `Python` `Next.js` `TypeScript` `PostgreSQL` `SQLAlchemy` `Alembic` `Redis` `MinIO` `Stripe` `Docker Compose`
-
-<a href="https://github.com/Juan23456788977/vecommerce-showcase"><img src="https://img.shields.io/badge/Ver_Showcase-c%C3%B3digo_privado-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="VECommerce Showcase"/></a>
-
----
-
-### 🤖 AI Email Assistant — Clasificador ML + Respuesta Automática
-
-> 🇪🇸 Sistema que lee emails entrantes, los clasifica por prioridad con un **modelo entrenado con scikit-learn**, y genera respuestas con **OpenAI GPT**. Los servicios `classifier.py` y `llm_response.py` están desacoplados para poder reemplazar el LLM sin tocar la lógica de clasificación.
-
-> 🌐 System that reads incoming emails, classifies them by priority using a **trained scikit-learn model**, and generates responses via **OpenAI GPT**. `classifier.py` and `llm_response.py` are decoupled so the LLM can be swapped without touching the classification logic.
-
-**Stack:** `FastAPI` `Python` `OpenAI API` `scikit-learn` `Docker Compose`
-
-<a href="https://github.com/Juan23456788977/ai-email-assistant"><img src="https://img.shields.io/badge/Ver_Showcase-c%C3%B3digo_privado-10B981?style=for-the-badge&logo=github&logoColor=white" alt="AI Email Assistant"/></a>
-
----
-
-### 🎓 PasantConnect — Sistema de Pasantías / Internship Management
-
-> 🇪🇸 Proyecto de tesis de grado para el I.T.A.T. Sistema completo: registro de pasantes/empresas/supervisores, control de horas, chat en tiempo real, subida de fotos, dark mode y panel admin. Contraseñas con **bcrypt** (`$2y$10$`), roles via `enum` en MySQL validados en cada endpoint.
-
-> 🌐 Graduation thesis for I.T.A.T. Full system: intern/company/supervisor management, hour tracking, real-time chat, photo uploads, dark mode, and admin panel. Passwords hashed with **bcrypt** (`$2y$10$`), roles enforced via MySQL `enum` validated at every endpoint.
-
-**Stack:** `PHP 7.3` `MySQL` `Vanilla JavaScript ES6+` `CSS3` `bcrypt` `AJAX` `Sessions`
-
-<a href="https://github.com/Juan23456788977/PasantConnect"><img src="https://img.shields.io/badge/Ver_C%C3%B3digo-p%C3%BAblico-3ECF8E?style=for-the-badge&logo=github&logoColor=white" alt="PasantConnect"/></a>
-
----
-
-### 📈 Bots de Trading Algorítmico / Algorithmic Trading Bots
-
-> 🇪🇸 Bots de grid trading para pares volátiles (SOL/USDT, BNB/USDT). Conexión a Binance vía **WebSockets** para order book en tiempo real sin polling. Lógica de grid con niveles automáticos según volatilidad, stop-loss automático y alertas por Telegram.
-
-> 🌐 Grid trading bots for volatile pairs (SOL/USDT, BNB/USDT). Connected to Binance via **WebSockets** for real-time order book without polling. Auto grid levels based on volatility, automatic stop-loss, and Telegram alerts on execution.
-
-**Stack:** `Python` `Binance API` `WebSockets` `asyncio` `Telegram Bot API`
-
-*🔒 Código privado por acuerdo con clientes / Private by client agreement*
-
----
-
-### 🎓 Akdemia Landing — Página de Captación / Lead Capture Page
-
-> 🇪🇸 Landing page de alto rendimiento para Akdemia EdTech (500+ colegios). Autocontenida en un solo HTML de 213KB. Se conecta a **Google Sheets vía Apps Script** para guardar leads en tiempo real y disparar notificaciones por email.
-
-> 🌐 High-conversion landing page for Akdemia EdTech (500+ schools). Self-contained in a single 213KB HTML file. Connects to **Google Sheets via Apps Script** for real-time lead capture and email notifications.
-
-**Stack:** `HTML5` `CSS3` `Vanilla JS` `Google Apps Script` `Google Sheets API`
-
-<a href="https://github.com/Juan23456788977/akdemia-landing"><img src="https://img.shields.io/badge/Ver_Showcase-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia Landing"/></a>
-
----
-
-## 🛠️ Stack Técnico / Tech Stack
-
-| Área / Area | Tecnologías / Technologies |
-|-------------|---------------------------|
-| **Frontend** | Next.js · React 19 · TypeScript · Tailwind · Framer Motion · Three.js |
-| **Backend** | FastAPI · Node.js · PHP · Python · Express |
-| **Bases de datos / DBs** | Supabase (pgvector) · Firebase · PostgreSQL · Redis · MySQL |
-| **IA & ML** | Gemini AI · OpenAI · scikit-learn · Ollama · Agentes Autónomos |
-| **Pagos / Payments** | Stripe Checkout · Stripe Webhooks |
-| **Comunicaciones / Comms** | Twilio Voice · WhatsApp (Baileys) · Resend · Telegram API |
-| **Auth** | Firebase Auth · JWT · WebAuthn · bcrypt · Sessions |
-| **DevOps** | Docker · Docker Compose · Vercel · Firebase Hosting |
-| **Testing** | Playwright (E2E) · Vitest (Unit) · Testing Library |
-
----
-
-## 📊 Estadísticas / Stats
-
-<div align="center">
-  <a href="https://github.com/Juan23456788977">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juan23456788977&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&locale=es" height="160" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Juan23456788977">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan23456788977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160" alt="Top Languages"/>
-  </a>
-</div>
+```
+QA & Accesibilidad    → Playwright · REST APIs · WCAG · Regression · RBAC
+Automatización & IA   → Linear (Loops/Agents) · Google Apps Script · n8n · MCP
+Lenguajes & Web       → JavaScript (ES6+) · TypeScript · Python · PHP · Next.js · FastAPI
+Bases de Datos        → MySQL · PostgreSQL · Supabase · Google Sheets API
+Herramientas          → Git · Docker · Supabase · Redis · Stripe
+```
 
 ---
 
 ## 📫 Contacto / Contact
 
-🇪🇸 Abierto a oportunidades remotas, colaboraciones y proyectos freelance.
-🌐 Open to remote opportunities, collaborations and freelance projects.
+- 📧 **Email:** cortezurreajuanalberto@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/juan-cortez-b61ba0345](https://www.linkedin.com/in/juan-cortez-b61ba0345)
 
-- 📧 cortezurreajuanalberto@gmail.com
-- 📧 cortezurreaj@gmail.com
-- 💼 [Portafolio completo / Full portfolio](https://github.com/Juan23456788977/Portafolio)
+---
 
-<div align="center">
-  <br/>
-  <i>🇪🇸 "No sigo hojas de ruta. Las construyo."</i><br/>
-  <i>🌐 "I don't follow roadmaps. I build them."</i>
-</div>
+*"No sigo hojas de ruta. Las construyo." / "I don't follow roadmaps. I build them."*
 
