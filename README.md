@@ -41,7 +41,7 @@
 
 ## 📊 Métricas QA Comprobables
 
-- ✅ **85+ ciclos de prueba** ejecutados en producción EdTech (Linear)
+- ✅ **85+ ciclos de prueba** ejecutados en el ambiente de pruebas EdTech (Linear)
 - ✅ **30+ incidencias técnicas** documentadas (bugs, regressions, security)
 - ✅ Auditorías **WCAG** (contraste, teclado, screen reader, aria-invalid)
 - ✅ Regresiones de migración **Ruby 3 / Rails 7** (backend multi-tenant)
